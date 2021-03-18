@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create Record">d9a5749c2f832010bb5143e72799b61b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>レコードの作成</label>
+        <location>top</location>
+        <name>レコードの作成</name>
+        <order>10</order>
+        <parent>8b2a0c802f472010bb5143e72799b65b</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-18 05:27:02</sys_created_on>
+        <sys_id>cc6bb4902fc32010bb5143e72799b6e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>レコードの作成</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_cc6bb4902fc32010bb5143e72799b6e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-18 05:27:02</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc6bb4902fc32010bb5143e72799b6e1"/>
+</record_update>
